@@ -2,6 +2,7 @@
 change orginal R code 
 
 #Number of forecast predictions
+
 horizon <- as.numeric(dataset2$HORIZON)
 
 to
