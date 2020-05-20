@@ -8,6 +8,7 @@ horizon <- as.numeric(dataset2$HORIZON)
 to
 
 #Number of forecast predictions
+
 if(is.null(dataset2$HORIZON)) { 
 horizon <- 3;
 } else {
