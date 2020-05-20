@@ -1,5 +1,10 @@
 # demandforecast
-change orginal R code 
+
+Azure ML Studio, https://studio.azureml.net/
+New experiment, search template by "forecast"
+Select "Forecasting Model for Microsoft Dynamics 365 Business Central"
+
+Change orginal R code from
 
 #Number of forecast predictions
 
